@@ -1,0 +1,2 @@
+-keep class com.movieflix.app.** { *; }
+-dontwarn androidx.media3.**
